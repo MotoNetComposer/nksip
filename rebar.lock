@@ -30,7 +30,7 @@
   0},
  {<<"nkserver">>,
   {git,"https://github.com/MotoNetComposer/nkserver",
-       {ref,"9713a74dcb89c96b793b9643d7530ffe9844743b"}},
+       {ref,"b9127672ee20e293f5047eb099357c21b352d2e5"}},
   0},
  {<<"parsexml">>,{pkg,<<"parsexml">>,<<"1.0.0">>},1},
  {<<"qdate">>,{pkg,<<"qdate">>,<<"0.7.0">>},1},
