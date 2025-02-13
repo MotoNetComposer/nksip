@@ -30,6 +30,8 @@ tls_cacertfile|`string()`|-|Custom CA certificate file
 tls_password|`string()`|-|Password fort the certificate
 tls_verify|`boolean()`|false|If we must check certificate
 tls_depth|`integer()`|0|TLS check depth
+tls_versions|`[atom()]`|['tlsv1.2', 'tlsv1.1', tlsv1]|TLS protocol versions
+tls_ciphers|`[string()]`|[]|TLS cipher suites
 tos|`integer()`|0|Type of Service value
 
 ### nkservice
@@ -92,6 +94,8 @@ tls_cacertfile|`string()`|-|Custom CA certificate file
 tls_password|`string()`|-|Password fort the certificate
 tls_verify|`boolean()`|false|If we must check certificate
 tls_depth|`integer()`|0|TLS check depth
+tls_versions|`[atom()]`|['tlsv1.2', 'tlsv1.1', tlsv1]|TLS protocol versions
+tls_ciphers|`[string()]`|[]|TLS cipher suites
 
 
 See [NkPACKET documentation](https://github.com/Nekso/nkpacket) for a description of allowed transports.

@@ -89,6 +89,7 @@
         tls_password => string(),
         tls_depth => 0..16,
         tls_versions => [atom()],
+        tls_ciphers => [string()],
 
         idle_timeout => integer(),
         sctp_out_streams => integer(),
