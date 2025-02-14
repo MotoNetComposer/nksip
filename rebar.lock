@@ -26,7 +26,7 @@
   0},
  {<<"nkpacket">>,
   {git,"https://github.com/MotoNetComposer/nkpacket",
-       {ref,"75d8eb48ca759ba7ccbc4a62c7fa268bac969fb0"}},
+       {ref,"b9da18ad7c5e3fd35caa5283657d3d265910ce6b"}},
   0},
  {<<"nkserver">>,
   {git,"https://github.com/MotoNetComposer/nkserver",
